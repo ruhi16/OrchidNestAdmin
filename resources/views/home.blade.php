@@ -17,7 +17,6 @@
                     {{ __('You are logged in!') }}
                 </div>
             </div>
-            Hari Narayan das
         </div>
     </div>
 </div>
